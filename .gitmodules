@@ -1,0 +1,6 @@
+[submodule "pong/lib/core/raylib"]
+	path = pong/lib/core/raylib
+	url = git@github.com:DiggingNebula8/raylib.git
+[submodule "pong/lib/core/imgui"]
+	path = pong/lib/core/imgui
+	url = git@github.com:ocornut/imgui.git
